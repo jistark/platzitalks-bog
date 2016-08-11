@@ -4,7 +4,9 @@ Qué hay acá
 -----------
 Mi **presentación del evento**.
 
-Igual es bueno que **[veas el curso](https://platzi.com/socialmedia/)**, digo yo. Si no tienes una suscripción activa de **Platzi**, puedes aprovechar **[un mes gratis](https://platzi.com/r/stark) a costa mía.**
+Igual es bueno que **[veas el Curso de Social Media Management y Estrategia Digital](https://platzi.com/socialmedia/)**, para que entiendas más de lo que estoy hablando, digo yo.
+
+Si no tienes una suscripción activa de **Platzi**, puedes aprovechar **[un mes gratis](https://platzi.com/r/stark) a costa mía.**
 
 Licencia
 --------
